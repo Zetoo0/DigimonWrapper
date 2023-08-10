@@ -13,3 +13,5 @@ What you can do?
       - name and type
       - color and attribute
   - Get the card sets where you can find that type of card by the number
+  - Download one card image by it's card number
+  - Download all cards image
