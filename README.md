@@ -1,5 +1,5 @@
 # DigimonWrapper
-Digimon api wrapper, currently on python only but a C# one will be out soon for a simulator project
+Digimon api wrapper, currently on python only but there will be a C# one out soon for a simulator project what will have more feature but I'd like to extense this one as well
 
 What you can do?
   - Get Digimon cards by name
