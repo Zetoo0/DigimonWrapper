@@ -11,10 +11,20 @@ Things you can get currently:
       - attribute
       - name and color
       - name and type
+      - name and playcost
+      - name and level
       - color and attribute
+      - color and cost
+      - color and level
+      - rarity
+      - evolution cost
+      - level
   - Get the card sets where you can find that type of card by the number
+  - Multicolored cards or cards with input colors
   - Download one card image by it's card number
   - Download all cards image
 
+#Update
+If you want to use some feature you have use first DownloadRequiredDatas function what is download the cards data in json file format
 
-Used crates: requests, shutil
+Used crates: requests, shutil, json, pandas
